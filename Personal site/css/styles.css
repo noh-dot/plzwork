@@ -1,0 +1,59 @@
+/* html attribute */
+
+h1 {
+  text-align: center;
+  color: #ff6363;
+  font-family: 'Pacifico', cursive;
+  font-size: 100px;
+
+}
+
+p {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: #eae7d9;
+  border: 0;
+  margin: 0;
+
+
+}
+
+body {
+  background-color: #202040;
+}
+
+img {
+  text-align: center;
+  width: 200px;
+
+}
+
+table {
+  color: white;
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #fb7b6b;
+  text-align: center;
+}
+
+hr {
+
+}
+
+/* class types */
+
+.dancer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Heading {
+  background-color: #f3c623;
+  margin: 0;
+  border: solid white;
+  padding: 1em;
+}
+
+/* images */
